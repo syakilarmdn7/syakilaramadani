@@ -162,7 +162,7 @@
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Tambah Data Siswa</h1>
+                    <h1 class="h3 mb-4 text-gray-800">Edit Data Siswa</h1>
                     <form action="">
                         <label for="nama" class="form-label">Nama Siswa</label>
                         <input type="text" id="nama" class="form-control">
@@ -173,7 +173,7 @@
                         <br>
                         <label for="select">Jenis Kelamin</label>
                         <select class="form-control" aria-label="Default select example">
-                        <option selected> </option>
+                        <option selected></option>
                         <option value="1">Laki-Laki</option>
                         <option value="2">Perempuan</option>
                         <option value="3">Lainnya</option>
@@ -237,5 +237,4 @@
     <script src="../js/sb-admin-2.min.js"></script>
 
 </body>
-
 </html>
